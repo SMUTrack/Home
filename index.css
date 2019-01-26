@@ -65,7 +65,7 @@ body {
 /*Main Title and Background Image*/
 
 .jumbotron.title {  
-	  background-image: url("images/SMU_TnF_Background.jpg");
+    background-image: url("images/SMU_TnF_Background.jpg");
     background-size: cover;
     background-position: center;
     margin-top: -20px;
