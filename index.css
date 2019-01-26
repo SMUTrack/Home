@@ -65,7 +65,7 @@ body {
 /*Main Title and Background Image*/
 
 .jumbotron.title {  
-    background-image: url("https://www.facebook.com/smutracknfield/photos/pcb.2058605584208411/2058605024208467/?type=3&theater");
+    background-image: url("images/competition.jpg");
     background-size: cover;
     background-position: center;
     margin-top: -20px;
